@@ -1,2 +1,2 @@
 # arithmetic-stack-machine
-A stack machin capable of executing simple arithmetic commands
+A stack machine capable of executing simple arithmetic commands
